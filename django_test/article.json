@@ -1,0 +1,82 @@
+[
+{
+    "pk": 1, 
+    "model": "article.article", 
+    "fields": {
+        "body": "blah", 
+        "pub_date": "2014-05-23T12:31:59.186Z", 
+        "likes": 18, 
+        "title": "Test 1"
+    }
+},
+{
+    "pk": 2, 
+    "model": "article.article", 
+    "fields": {
+        "body": "blah", 
+        "pub_date": "2014-05-23T12:32:33.794Z", 
+        "likes": 19, 
+        "title": "Test 2"
+    }
+},
+{
+    "pk": 3, 
+    "model": "article.article", 
+    "fields": {
+        "body": "blah", 
+        "pub_date": "2014-05-23T12:32:45.066Z", 
+        "likes": 9, 
+        "title": "Test 3"
+    }
+},
+{
+    "pk": 4, 
+    "model": "article.article", 
+    "fields": {
+        "body": "\u0431\u0430\u043b\u0431\u0430\u043b\u0431\u0430\u043b\u0431\u043b\u0430\u043b\u0431\u0430", 
+        "pub_date": "2014-05-23T13:37:58Z", 
+        "likes": 0, 
+        "title": "\u041b\u044f\u043b\u044f\u043b\u044f\u043b\u044f\u043b\u044f"
+    }
+},
+{
+    "pk": 5, 
+    "model": "article.article", 
+    "fields": {
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu auctor mi, id gravida ante. Nam facilisis non nibh at porttitor. Donec quis arcu sodales, convallis lectus sed, fringilla quam. Mauris ut felis sed lorem feugiat tincidunt. Ut volutpat rutrum dignissim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur non purus adipiscing sem gravida porttitor at eget lorem. Duis eget vehicula nisi, ut aliquam elit. Praesent mollis aliquam orci vitae pharetra. Maecenas condimentum vulputate turpis, eget venenatis nulla eleifend vitae. Aenean laoreet mattis lorem, sed eleifend erat adipiscing ut. Nullam at mi sed metus varius tristique. ", 
+        "pub_date": "2014-05-23T13:49:56Z", 
+        "likes": 0, 
+        "title": "Lorem ipsum"
+    }
+},
+{
+    "pk": 6, 
+    "model": "article.article", 
+    "fields": {
+        "body": "\u0422\u0435\u0441\u0442\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430\u0430", 
+        "pub_date": "2014-05-23T13:49:56Z", 
+        "likes": 0, 
+        "title": "\u0422\u0435\u0441\u0442 123"
+    }
+},
+{
+    "pk": 1, 
+    "model": "article.comment", 
+    "fields": {
+        "body": "Bla bla comment", 
+        "article": 1, 
+        "pub_date": "2014-05-23T20:08:10.155Z", 
+        "name": "Lqlqlq"
+    }
+},
+{
+    "pk": 2, 
+    "model": "article.comment", 
+    "fields": {
+        "body": "dfnhdfghndf", 
+        "article": 1, 
+        "pub_date": "2014-05-23T20:08:31.731Z", 
+        "name": "dklgksdjfg"
+    }
+}
+]
